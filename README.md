@@ -2,6 +2,8 @@
 
 Welcome to the [React Router](https://reactrouter.com/en/main) Crash Course! This beginner-friendly guide will walk you through the process of setting up and using React Router in your Vite.js application. React Router is a powerful library designed to handle navigation in React applications.
 
+#### [Live - Click Here to Open](https://amankumarsinhagithub.github.io/React-Router-Crash-Course/) 
+
 ## Table of Contents
 
 1. [Installation](#installation)
